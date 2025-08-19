@@ -1,0 +1,8 @@
+Operadores matemáticos:
+Adição: +                       (10+20 = 30)
+Subtração: -                    (100-50 = 50)
+multiplicação: *                (5*4 = 20)
+divisão: /                      (7//2 = 3,5)
+divisão inteira: //             (7//2 = 3)
+Módulo (resto da divisão): %    (10%3 = 1)
+Exponenciação: **               (2**3 = 8)
