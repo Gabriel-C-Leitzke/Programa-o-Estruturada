@@ -119,7 +119,7 @@ else:
 
 # Exercício 15
 letra = input("Digite uma letra: ")
-if letra in "AEIOU" and letra.isupper():
+if letra in "AEIOU":
     print("É uma vogal maiúscula")
 else:
     print("Não é vogal maiúscula")
